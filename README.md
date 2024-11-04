@@ -1,3 +1,3 @@
 # esercizi-corso-metodi
 
-prova di modifica del file README 
+in questa repository saranno caricati gli esercizi svolti per il corso di metodi computazionali per la fisica 
